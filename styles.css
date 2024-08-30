@@ -1,2 +1,38 @@
 
 /* Your CSS Code here. */
+/* Style for the quiz container */
+.quiz-container {
+    padding: 20px;
+}
+
+/* Style for the fieldset and legend */
+fieldset {
+    border: none;
+    padding: 0;
+}
+
+legend {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Style for the blockquote */
+blockquote {
+    max-width: 600px;
+    margin: 10px;
+    padding: 15px;
+    border-left: 8px solid green;
+    background-color: #f8fffe;
+    font-weight: bold;
+}
+
+/* Style for the blockquote citation */
+blockquote cite {
+    display: block;
+    margin-top: 10px;
+}
+
+blockquote a {
+    color: blue;
+    text-decoration: underline;
+}
